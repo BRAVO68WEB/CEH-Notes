@@ -100,7 +100,7 @@
 - Get the list of live IP addresses
 
 ```bash
-netdiacover -r 192.168.0.1/24
+netdiscover -r 192.168.0.1/24
 ```
 
 ### Nmap
