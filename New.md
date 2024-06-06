@@ -1,17 +1,3 @@
-# Enumeration
-
-- Extensive Scan on Network and FQDN
-- Finding IP Address of Services Running
-- SMB Enumeration and Brutefocing
-- FTP Enumeration and Bruteforcing
-- SSH Enumeration and Bruteforcing
-  
-## Answer
-
-### Use Case
-
-**Displays OS, Computer-Name, Domain, Workgroups and Ports**
-
 ## Jump Links
 
 - [Enumeration](#enumeration)
@@ -93,6 +79,21 @@
   - [Answer](#answer-13)
     - [njRAT](#njrat)
     - [Theef Trojan](#theef-trojan)
+   
+# Enumeration
+
+- Extensive Scan on Network and FQDN
+- Finding IP Address of Services Running
+- SMB Enumeration and Brutefocing
+- FTP Enumeration and Bruteforcing
+- SSH Enumeration and Bruteforcing
+  
+## Answer
+
+### Use Case
+
+**Displays OS, Computer-Name, Domain, Workgroups and Ports**
+
 
 ### Netdiscover
 
