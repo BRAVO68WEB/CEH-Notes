@@ -584,6 +584,7 @@ find / -perm -u=s -type f 2>/dev/null
 - Similar Tools:
 	1. Portable Executable Scanner (pescan)
 	2. Resource Hacker
+	3. [Resource Cracker](https://www.pelock.com/products/resource-cracker)
 	3. PEView
 - Detects entrypoints, header information, file information, etc.
 
